@@ -128,6 +128,22 @@ Highly analytical and detail-oriented Computer Science undergraduate with strong
 
 ---
 
+## 🌐 Networking Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
+
+### 🧠 Core Networking Skills:
+- Cisco Packet Tracer (Simulation & Labs)
+- Network Design & Architecture
+- Routing Protocols (Static & Dynamic basics)
+- Switching Concepts (VLANs, Trunking basics)
+- IP Addressing & Subnetting
+- LAN / WAN Fundamentals
+
+---
+
 # 📜 Certifications
 
 🏅 Data Analytics Diploma — UpSkill (2026)
