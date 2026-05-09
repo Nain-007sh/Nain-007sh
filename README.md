@@ -97,7 +97,7 @@ Highly analytical and detail-oriented Computer Science undergraduate with strong
 
 ## 👨‍💻 Programming & Development
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode,mysql,postgresql" />
 </p>
 
@@ -105,7 +105,7 @@ Highly analytical and detail-oriented Computer Science undergraduate with strong
 
 ## 📊 Data Science & Analytics Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
@@ -118,7 +118,7 @@ Highly analytical and detail-oriented Computer Science undergraduate with strong
 
 ## 🗄 Databases
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
@@ -129,7 +129,7 @@ Highly analytical and detail-oriented Computer Science undergraduate with strong
 
 ## 🎨 Design & Productivity Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge"/>
@@ -140,7 +140,7 @@ Highly analytical and detail-oriented Computer Science undergraduate with strong
 
 ## 🌐 Networking Skills
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
