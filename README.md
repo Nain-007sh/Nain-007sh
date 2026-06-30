@@ -145,15 +145,6 @@ Built a business intelligence dashboard for analyzing app performance on the Goo
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nain-007sh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nain-007sh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nain-007sh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nain-007sh&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
 </p>
 
