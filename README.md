@@ -141,7 +141,7 @@ Designed and developed an interactive cybersecurity analytics dashboard for anal
 - Built a four-page interactive dashboard for executive overview, threat analysis, traffic analysis, and data quality assessment
 - Implemented dynamic filtering and SQL-based analytics to support security monitoring and decision-making
 
-🔗 **View Repository:** https://github.com/Nain-007sh/cyber-security-threat-analytics-dashboard
+🔗 [View Repository](https://github.com/Nain-007sh/cyber-security-threat-analytics-dashboard)
 
 ---
 
