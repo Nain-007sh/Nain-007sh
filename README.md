@@ -131,6 +131,20 @@ Built a business intelligence dashboard for analyzing app performance on the Goo
 
 ---
 
+### Cyber Security Threat Analytics Dashboard
+**Tech Stack:** Python, Pandas, NumPy, Plotly, Streamlit, SQL
+
+Designed and developed an interactive cybersecurity analytics dashboard for analyzing network intrusion data. The project transforms raw network traffic into meaningful security insights through data cleaning, feature engineering, KPI reporting, and interactive visualizations.
+
+- Processed and analyzed 47,000+ network records from the NSL-KDD dataset
+- Engineered custom risk metrics, threat levels, traffic categories, and security KPIs
+- Built a four-page interactive dashboard for executive overview, threat analysis, traffic analysis, and data quality assessment
+- Implemented dynamic filtering and SQL-based analytics to support security monitoring and decision-making
+
+🔗 **View Repository:** https://github.com/Nain-007sh/cyber-security-threat-analytics-dashboard
+
+---
+
 ## Certifications
 
 | Certification | Provider |
