@@ -3,160 +3,167 @@
 </p>
 
 <h1 align="center">Muhammad Husnain Raheem</h1>
+<h3 align="center">Data Analyst · Web Developer</h3>
 
-<h3 align="center">Aspiring Data Scientist | Data Analyst | AI Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+Into+Actionable+Insights;Python+%7C+SQL+%7C+Data+Visualization;Building+Interactive+Dashboards;BS+Computer+Science+Student" alt="Typing SVG" />
-</p>
+<p align="center"><i>Turning raw data into clear insight — and building the interfaces that present it.</i></p>
 
 <p align="center">
-  <a href="mailto:husnainraheem82@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sheikh-husnain-raheem-455270336"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Nain-007sh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=0FB9B1&center=true&vCenter=true&width=750&lines=Data+Cleaning+%7C+EDA+%7C+Dashboards;Python+%7C+SQL+%7C+HTML+%7C+CSS;Building+Insight-Driven%2C+User-Friendly+Products" alt="Typing SVG" />
 </p>
 
----
-
-## About Me
-
-I'm a Computer Science undergraduate at the University of Layyah, specializing in **Data Science and Analytics**. My focus is on transforming complex, messy datasets into clear, actionable insights using Python, SQL, and modern visualization tools.
-
-- 🎓 **Education:** BS Computer Science, University of Layyah (2024 – Present)
-- 🔍 **Current Focus:** Data cleaning, exploratory data analysis (EDA), and dashboard development
-- 📊 **Interests:** Business intelligence, database design, and data storytelling
-- 📈 **Learning Goals:** Deepening expertise in advanced analytics and data-driven decision-making
-- 💪 **Strengths:** Analytical thinking, attention to detail, and translating data into business value
-- 🎯 **Career Direction:** Building a career as a Data Scientist / Data Analyst, working on real-world data problems that drive better decisions
-
----
-
-## Professional Summary
-
-Analytical and detail-oriented Computer Science undergraduate specializing in Data Science and Analytics. Skilled in transforming complex datasets into actionable insights using Python, SQL, Pandas, and visualization tools. Experienced in data cleaning, exploratory data analysis, database design, and interactive dashboard development. Passionate about building data-driven solutions and improving decision-making through analytics.
-
----
-
-## Skills
-
-**Programming**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<p align="center">
+  <a href="mailto:husnainraheem82@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sheikh-husnain-raheem-455270336"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Nain-007sh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
-**Data Analytics & Visualization**
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+<p align="center">📍 Layyah, Punjab, Pakistan &nbsp;·&nbsp; 🎓 BS Computer Science, University of Layyah &nbsp;·&nbsp; 💼 Open to Internships</p>
 
-**Databases & Database Design**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ER_Modeling_%7C_1NF--3NF-4B8BBE?style=for-the-badge"/>
-</p>
+<div align="center">
 
-**Version Control & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+|  |  |  |
+|:---:|:---:|:---:|
+| **4** Dashboards Shipped | **50K+** Records Analyzed | **6** Certifications |
 
-**Design Tools**
-<p>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-</p>
-
-**Soft Skills**
-<p>
-  <img src="https://img.shields.io/badge/Problem_Solving-2c3e50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data_Storytelling-2c3e50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Business_Intelligence-2c3e50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Analytical_Thinking-2c3e50?style=for-the-badge"/>
-</p>
+</div>
 
 ---
 
-## Featured Projects
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FB9B1,100:0B4F6C&height=80&text=About%20Me&fontSize=26&fontColor=ffffff&fontAlignY=55&section=header" width="100%"/>
+</p>
 
-### Global COVID-19 Analysis Dashboard
-**Tech Stack:** Google Looker Studio
+I'm a Computer Science undergraduate at the University of Layyah, working as a **Data Analyst**. My core focus is the full analytics workflow — cleaning messy datasets, running exploratory data analysis, and building dashboards that turn numbers into decisions.
 
-Built an interactive dashboard analyzing global COVID-19 trends, including case counts, recoveries, and mortality rates.
-
-- Designed geographical analytics across multiple countries
-- Converted raw datasets into meaningful visual insights
-- Enabled at-a-glance comparison of pandemic trends across regions
-
-🔗 [View Repository](https://github.com/Nain-007sh/COVID-19-Global-Analytics-Dashboard)
+Alongside that, I work with **HTML and CSS** to build and style clean, responsive web interfaces — so I can take a project from raw data all the way to a polished, presentable product. I'm currently looking for internship and entry-level opportunities where I can apply this combination of analytical and front-end skills to real problems.
 
 ---
 
-### Online Course Demand & Skill Trend Dashboard
-**Tech Stack:** Python, Pandas, Streamlit
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FB9B1,100:0B4F6C&height=80&text=Tech%20Stack&fontSize=26&fontColor=ffffff&fontAlignY=55&section=header" width="100%"/>
+</p>
 
-Developed an interactive web analytics application analyzing 3,600+ online courses to identify pricing, engagement, and demand patterns.
-
-- Performed exploratory data analysis on the full course dataset
-- Analyzed pricing, engagement, and course popularity trends
-- Built dashboards to identify high-demand skills and categories
-
-🔗 [View Repository](https://github.com/Nain-007sh/Online-Course-Demand-Project)
+<table>
+<tr><td><b>Languages</b></td><td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</td></tr>
+<tr><td><b>Data & Visualization</b></td><td>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</td></tr>
+<tr><td><b>Statistics & Analysis</b></td><td>
+<img src="https://img.shields.io/badge/EDA-0FB9B1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Statistical_Analysis-0FB9B1?style=flat-square"/>
+<img src="https://img.shields.io/badge/A%2FB_Testing-0FB9B1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Wrangling-0FB9B1?style=flat-square"/>
+</td></tr>
+<tr><td><b>Databases</b></td><td>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBeaver-372923?style=flat-square"/>
+<img src="https://img.shields.io/badge/ER_Modeling_(1NF--3NF)-372923?style=flat-square"/>
+</td></tr>
+<tr><td><b>Tools</b></td><td>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
+</td></tr>
+</table>
 
 ---
 
-### Google Play Store Analytics Dashboard
-**Tech Stack:** Python, Pandas, Streamlit
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FB9B1,100:0B4F6C&height=80&text=Featured%20Projects&fontSize=26&fontColor=ffffff&fontAlignY=55&section=header" width="100%"/>
+</p>
 
-Built a business intelligence dashboard for analyzing app performance on the Google Play Store.
+<p align="center">
+  <a href="https://github.com/Nain-007sh/cyber-security-threat-analytics-dashboard">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Nain-007sh&repo=cyber-security-threat-analytics-dashboard&theme=tokyonight&hide_border=true" width="48%"/>
+  </a>
+  <a href="https://github.com/Nain-007sh/Online-Course-Demand-Project">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Nain-007sh&repo=Online-Course-Demand-Project&theme=tokyonight&hide_border=true" width="48%"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+<p align="center"><i>47,000+ network records analyzed for threat detection · 3,600+ courses analyzed for skill-demand trends</i></p>
 
-- Cleaned and transformed large, raw datasets
-- Created KPI dashboards tracking ratings, installs, and reviews
-- Delivered actionable insights through data visualization
+<br>
 
-🔗 [View Repository](https://github.com/Nain-007sh/Google_Play_Store_Analytics)
+<p align="center">
+  <a href="https://github.com/Nain-007sh/Google_Play_Store_Analytics">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Nain-007sh&repo=Google_Play_Store_Analytics&theme=tokyonight&hide_border=true" width="48%"/>
+  </a>
+  <a href="https://github.com/Nain-007sh/COVID-19-Global-Analytics-Dashboard">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Nain-007sh&repo=COVID-19-Global-Analytics-Dashboard&theme=tokyonight&hide_border=true" width="48%"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square"/>
+</p>
+<p align="center"><i>BI dashboard tracking app ratings, installs & reviews · Geographical COVID-19 trend analysis across countries</i></p>
 
 ---
 
-### Cyber Security Threat Analytics Dashboard
-**Tech Stack:** Python, Pandas, NumPy, Plotly, Streamlit, SQL
+<details>
+<summary><b>🎓 Education</b></summary>
+<br>
 
-Designed and developed an interactive cybersecurity analytics dashboard for analyzing network intrusion data. The project transforms raw network traffic into meaningful security insights through data cleaning, feature engineering, KPI reporting, and interactive visualizations.
+| Institution | Program | Period | Score |
+|---|---|---|---|
+| University of Layyah | BS Computer Science | 2024 – Present | — |
+| Zakariya Higher Secondary School & College | Intermediate (Computer Science) | 2022 – 2024 | 1069 / 1200 |
+| Sunrise Public High School | Matriculation (Science) | 2020 – 2022 | 1027 / 1100 |
 
-- Processed and analyzed 47,000+ network records from the NSL-KDD dataset
-- Engineered custom risk metrics, threat levels, traffic categories, and security KPIs
-- Built a four-page interactive dashboard for executive overview, threat analysis, traffic analysis, and data quality assessment
-- Implemented dynamic filtering and SQL-based analytics to support security monitoring and decision-making
+*Relevant Coursework: Data Analytics, Database Systems, Data Structures & Algorithms, Object-Oriented Programming*
 
-🔗 [View Repository](https://github.com/Nain-007sh/cyber-security-threat-analytics-dashboard)
+</details>
 
----
-
-## Certifications
+<details>
+<summary><b>📜 Certifications</b></summary>
+<br>
 
 | Certification | Provider |
 |---|---|
 | Data Analytics Program (Data Cleaning, Database Design, Visualization, SQL, Dashboards) | UpSkill — Jan 2026 |
+| AI for Data Analysis | Google (Coursera) |
+| Hello Python! | Google (Coursera) |
 | Agile Project Management | Google (Coursera) |
 | Foundations of Project Management | Google (Coursera) |
 | Introduction to Front-End Development | Meta (Coursera) |
 
+</details>
+
 ---
 
-## GitHub Analytics
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FB9B1,100:0B4F6C&height=80&text=GitHub%20Analytics&fontSize=26&fontColor=ffffff&fontAlignY=55&section=header" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Nain-007sh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nain-007sh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="38%"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nain-007sh&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
@@ -164,12 +171,18 @@ Designed and developed an interactive cybersecurity analytics dashboard for anal
 
 ---
 
-## Contact
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FB9B1,100:0B4F6C&height=80&text=Let's%20Connect&fontSize=26&fontColor=ffffff&fontAlignY=55&section=header" width="100%"/>
+</p>
 
 <p align="center">
-  <a href="mailto:husnainraheem82@gmail.com"><img src="https://img.shields.io/badge/Email-husnainraheem82%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><br/>
-  <a href="https://www.linkedin.com/in/sheikh-husnain-raheem-455270336"><img src="https://img.shields.io/badge/LinkedIn-sheikh--husnain--raheem-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br/>
-  <a href="https://github.com/Nain-007sh"><img src="https://img.shields.io/badge/GitHub-Nain--007sh-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:husnainraheem82@gmail.com"><img src="https://img.shields.io/badge/Email-husnainraheem82%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a><br/>
+  <a href="https://www.linkedin.com/in/sheikh-husnain-raheem-455270336"><img src="https://img.shields.io/badge/LinkedIn-sheikh--husnain--raheem-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a><br/>
+  <a href="https://github.com/Nain-007sh"><img src="https://img.shields.io/badge/GitHub-Nain--007sh-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 <h4 align="center">Turning Data Into Decisions</h4>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0FB9B1,100:0B4F6C&height=100&section=footer" width="100%"/>
+</p>
