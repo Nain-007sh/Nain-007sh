@@ -8,7 +8,7 @@
 <p align="center"><i>Turning raw data into clear insight — and building the interfaces that present it.</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=0FB9B1&center=true&vCenter=true&width=750&lines=Data+Cleaning+%7C+EDA+%7C+Dashboards;Python+%7C+SQL+%7C+HTML+%7C+CSS;Building+Insight-Driven%2C+User-Friendly+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=0FB9B1&center=true&vCenter=true&width=750&lines=Data+Analytics+%7C+Business+Intelligence+%7C+Dashboards;Python+%7C+SQL+%7C+Power+BI+%7C+Streamlit;Data+Visualization+%7C+ETL+%7C+AI+for+Data+Analytics;Frontend+Development+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+Bootstrap;Building+Insight-Driven+%26+User-Friendly+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -33,9 +33,18 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FB9B1,100:0B4F6C&height=80&text=About%20Me&fontSize=26&fontColor=ffffff&fontAlignY=55&section=header" width="100%"/>
 </p>
 
-I'm a Computer Science undergraduate at the University of Layyah, working as a **Data Analyst**. My core focus is the full analytics workflow — cleaning messy datasets, running exploratory data analysis, and building dashboards that turn numbers into decisions.
+I am a **Data Analyst** passionate about transforming raw data into actionable business insights through analytics, business intelligence, and interactive dashboard development. I enjoy solving real-world business challenges by uncovering patterns, measuring performance, and building data-driven solutions that support smarter decision-making.
 
-Alongside that, I work with **HTML and CSS** to build and style clean, responsive web interfaces — so I can take a project from raw data all the way to a polished, presentable product. I'm currently looking for internship and entry-level opportunities where I can apply this combination of analytical and front-end skills to real problems.
+My expertise includes **Python, SQL, Power BI, Google Looker Studio, Streamlit, Pandas, ETL, Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis, Data Visualization, and KPI Dashboard Development**. I leverage these technologies to build scalable analytics solutions, automate reporting, and create interactive dashboards that communicate insights effectively to both technical and non-technical stakeholders.
+
+I have successfully developed multiple end-to-end analytics projects, including **Sales Analytics Dashboard, COVID-19 Global Analytics Dashboard, Google Play Store Analytics Dashboard, Online Course Demand & Skill Trend Dashboard, and Cybersecurity Threat Analytics Dashboard**. These projects strengthened my ability to transform complex datasets into meaningful insights and business-driven recommendations.
+
+Alongside data analytics, I have built several responsive frontend projects using **HTML, CSS, JavaScript, and Bootstrap**, including modern landing pages, business websites, inventory management interfaces, travel websites, interactive web applications, and responsive UI experiences. This frontend expertise enables me to create intuitive, visually appealing interfaces for data-driven applications and analytics dashboards.
+
+I also integrate **AI for Data Analytics** into my workflow to enhance productivity, automate repetitive tasks, accelerate analysis, and improve decision-making using modern AI tools and prompt engineering techniques.
+
+I am committed to continuous learning and staying up to date with emerging technologies in **Data Analytics, Business Intelligence, Artificial Intelligence, and Frontend Development**. I am currently seeking opportunities as a **Data Analyst, Business Intelligence Analyst, or Dashboard Developer**, where I can apply analytical thinking, technical expertise, and a passion for transforming data into impactful business solutions while delivering modern, user-centric digital experiences.
+
 
 ---
 
