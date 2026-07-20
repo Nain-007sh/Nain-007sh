@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nain-007sh/Nain-007sh/main/bannerr.jpg" width="100%" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/Nain-007sh/Nain-007sh/main/bannerr.png" width="100%" alt="Banner" />
 </p>
 
 <h1 align="center">Muhammad Husnain Raheem</h1>
