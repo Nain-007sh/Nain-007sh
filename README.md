@@ -4,12 +4,12 @@
 
 <h1 align="center">Muhammad Husnain Raheem</h1>
 
-<h3 align="center">Data Analyst · Web Developer</h3>
+<h3 align="center">Data Analyst · Python Backend Developer</h3>
 
-<p align="center"><i>Turning raw data into clear insight — and building the interfaces that present it.</i></p>
+<p align="center"><i>Turning raw data into clear insight — and building the backend systems that power it.</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=0FB9B1&center=true&vCenter=true&width=750&lines=Data+Analytics+%7C+Business+Intelligence+%7C+Dashboards;Python+%7C+SQL+%7C+Power+BI+%7C+Streamlit;Data+Visualization+%7C+ETL+%7C+AI+for+Data+Analytics;Frontend+Development+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+Bootstrap;Building+Insight-Driven+%26+User-Friendly+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=0FB9B1&center=true&vCenter=true&width=750&lines=Data+Analytics+%7C+Business+Intelligence+%7C+Dashboards;Python+%7C+SQL+%7C+FastAPI+%7C+REST+APIs;Streamlit+%7C+Google+Looker+Studio+%7C+Data+Visualization;ETL+%7C+KPI+Dashboard+Development+%7C+AI+for+Data+Analytics;Advancing+Towards+AI+Engineering" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **4** Dashboards Shipped | **50K+** Records Analyzed | **6** Certifications |
+| **6** Dashboards Shipped | **50K+** Records Analyzed | **6** Certifications |
 
 </div>
 
@@ -34,18 +34,19 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FB9B1,100:0B4F6C&height=80&text=About%20Me&fontSize=26&fontColor=ffffff&fontAlignY=55&section=header" width="100%"/>
 </p>
 
-I am a **Data Analyst** passionate about transforming raw data into actionable business insights through analytics, business intelligence, and interactive dashboard development. I enjoy solving real-world business challenges by uncovering patterns, measuring performance, and building data-driven solutions that support smarter decision-making.
+I'm a **Data Analyst and Python Backend Developer** passionate about transforming raw data into actionable business insights through analytics, interactive dashboards, and data-driven applications.
 
-My expertise includes **Python, SQL, Power BI, Google Looker Studio, Streamlit, Pandas, ETL, Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis, Data Visualization, and KPI Dashboard Development**. I leverage these technologies to build scalable analytics solutions, automate reporting, and create interactive dashboards that communicate insights effectively to both technical and non-technical stakeholders.
+I started my journey with **Frontend Web Development** — HTML, CSS, JavaScript, and Bootstrap — building responsive websites, landing pages, and interactive web applications. That gave me a strong foundation in user-focused application design.
 
-I have successfully developed multiple end-to-end analytics projects, including **Sales Analytics Dashboard, COVID-19 Global Analytics Dashboard, Google Play Store Analytics Dashboard, Online Course Demand & Skill Trend Dashboard, and Cybersecurity Threat Analytics Dashboard**. These projects strengthened my ability to transform complex datasets into meaningful insights and business-driven recommendations.
+I then moved into **Data Analytics & Business Intelligence**, developing hands-on expertise in **Python, SQL, Pandas, NumPy, Streamlit, Google Looker Studio, ETL, data visualization, and KPI dashboard development** — working with data cleaning, EDA, reporting, and turning complex datasets into clear, actionable insights.
 
-Alongside data analytics, I have built several responsive frontend projects using **HTML, CSS, JavaScript, and Bootstrap**, including modern landing pages, business websites, inventory management interfaces, travel websites, interactive web applications, and responsive UI experiences. This frontend expertise enables me to create intuitive, visually appealing interfaces for data-driven applications and analytics dashboards.
+After building my analytics foundation, I expanded into **Python Backend Development**, focusing on **APIs, backend logic, and data-driven applications** — connecting analytics solutions with backend systems using **FastAPI** and **REST APIs**. This combination of Frontend + Data Analytics + Backend lets me approach projects from both the development and data perspective.
 
-I also integrate **AI for Data Analytics** into my workflow to enhance productivity, automate repetitive tasks, accelerate analysis, and improve decision-making using modern AI tools and prompt engineering techniques.
+My next area of growth is **AI Engineering** — building on my Python, backend, and analytics foundation to explore AI-powered applications, LLMs, AI agents, automation, and intelligent data-driven solutions.
 
-I am committed to continuous learning and staying up to date with emerging technologies in **Data Analytics, Business Intelligence, Artificial Intelligence, and Frontend Development**. I am currently seeking opportunities as a **Data Analyst, Business Intelligence Analyst, or Dashboard Developer**, where I can apply analytical thinking, technical expertise, and a passion for transforming data into impactful business solutions while delivering modern, user-centric digital experiences.
+📊 **Featured Analytics Projects:** Sales Analytics Dashboard · COVID-19 Global Analytics Dashboard · Google Play Store Analytics Dashboard · Online Course Demand & Skill Trend Dashboard · Cybersecurity Threat Analytics Dashboard · FIFA World Cup 2026 Analytics Dashboard
 
+I'm committed to continuous learning and staying current with emerging technologies in **Data Analytics, Business Intelligence, Python Backend Development, and AI Engineering**. Open to connecting with people working in **Data Analytics, Python Development, Backend Development, and AI Engineering**.
 
 ---
 
@@ -59,6 +60,11 @@ I am committed to continuous learning and staying up to date with emerging techn
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</td></tr>
+<tr><td><b>Backend Development</b></td><td>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python_Backend-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </td></tr>
 <tr><td><b>Data & Visualization</b></td><td>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
@@ -133,6 +139,20 @@ I am committed to continuous learning and staying up to date with emerging techn
 </p>
 <p align="center"><i>BI dashboard tracking app ratings, installs & reviews · Geographical COVID-19 trend analysis across countries</i></p>
 
+<br>
+
+<p align="center">
+  <a href="https://github.com/Nain-007sh/FIFA-World-Cup-2026-Analytics-Dashboard">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Nain-007sh&repo=FIFA-World-Cup-2026-Analytics-Dashboard&theme=tokyonight&hide_border=true" width="48%"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Business_Intelligence-0FB9B1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Sports_Analytics-0FB9B1?style=flat-square"/>
+</p>
+<p align="center"><i>FIFA World Cup 2026 team, player, match & venue performance analytics dashboard</i></p>
+
 ---
 
 <details>
@@ -176,7 +196,7 @@ I am committed to continuous learning and staying up to date with emerging techn
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nain-007sh&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
+  <img src="https://ghchart.rshah.org/0FB9B1/Nain-007sh" alt="Nain-007sh's GitHub contribution chart" width="90%"/>
 </p>
 
 ---
