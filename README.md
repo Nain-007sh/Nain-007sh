@@ -24,7 +24,7 @@
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **6** Dashboards Shipped | **50K+** Records Analyzed | **6** Certifications |
+| **6+** Dashboards Built | **50K+** Records Analyzed | **6** Certifications |
 
 </div>
 
@@ -193,10 +193,6 @@ I'm committed to continuous learning and staying current with emerging technolog
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Nain-007sh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nain-007sh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="38%"/>
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/0FB9B1/Nain-007sh" alt="Nain-007sh's GitHub contribution chart" width="90%"/>
 </p>
 
 ---
