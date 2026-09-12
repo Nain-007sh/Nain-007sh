@@ -20,7 +20,7 @@
 
 <p align="center">📍 Layyah, Punjab, Pakistan &nbsp;·&nbsp; 🎓 BS Computer Science, University of Layyah &nbsp;·&nbsp; 💼 Open to Internships</p>
 
-<div align="center">
+<div align="center"> 
 
 |  |  |  |
 |:---:|:---:|:---:|
