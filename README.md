@@ -140,7 +140,6 @@ I'm committed to continuous learning and staying current with emerging technolog
 <p align="center"><i>BI dashboard tracking app ratings, installs & reviews · Geographical COVID-19 trend analysis across countries</i></p>
 
 <br>
-
 <p align="center">
   <a href="https://github.com/Nain-007sh/FIFA-World-Cup-2026-Analytics-Dashboard">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=Nain-007sh&repo=FIFA-World-Cup-2026-Analytics-Dashboard&theme=tokyonight&hide_border=true" width="48%"/>
